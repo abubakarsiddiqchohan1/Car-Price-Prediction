@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This is my **4th semester project** for the **Artificial Intelligence Lab** course, part of the **BS Data Science** degree. It is a **Car Price Prediction System** that combines **Machine Learning** with a **Tkinter-based GUI** to provide an interactive way for users to estimate used car prices.
+This was my **4th semester project** for the **Artificial Intelligence Lab** course, part of the **BS Data Science** degree. It is a **Car Price Prediction System** that combines **Machine Learning** with a **Tkinter-based GUI** to provide an interactive way for users to estimate used car prices.
 
 ## 💻 What It Does
 
