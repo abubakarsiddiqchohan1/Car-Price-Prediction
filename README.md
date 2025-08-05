@@ -49,23 +49,5 @@ This is my **4th semester project** for the **Artificial Intelligence Lab** cour
 ## 🖼 GUI Preview
 
 ![GUI Screenshot Placeholder](gui_screenshot.png)  
-*(Replace with actual screenshot of the GUI window)*
-
-## 📚 Course Information
-
-- **Course Name**: Artificial Intelligence - Lab
-- **Semester**: 4th
-- **Degree Program**: BS Data Science
-- **Project Type**: Semester Project
-
-## 📌 Example Prediction
-
-> 🧾 A 2019 Toyota Corolla, driven 35,000 km, Petrol → **Predicted Price: ₹9.2 Lakhs** (via GUI)
-
-## 🧑‍💻 How to Run
-
-```bash
-1. Clone the repo
-2. Install dependencies
-3. Run the notebook or export the GUI part as .py
-4. Launch GUI → Input → Predict!
+*(![Car Price PredictionGUI](https://github.com/user-attachments/assets/439af69d-4e21-4320-b252-029dd14d2674)
+)*
