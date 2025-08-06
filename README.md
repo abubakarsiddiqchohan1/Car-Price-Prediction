@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction with GUI | AI Lab Project of my 4th Semester university project 
+# 🚗 Car Price Prediction with GUI | AI Theory Project of my 4th Semester university project 
 
 ## 📌 Overview
 
